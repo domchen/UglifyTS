@@ -1,4 +1,8 @@
-[![npm version](https://badge.fury.io/js/uglifyts.svg)](https://badge.fury.io/js/uglifyts)
+<p align="left">
+  <a href="https://www.npmjs.com/package/uglifyts"><img src="https://img.shields.io/npm/v/uglifyts.svg" alt="Version"></a>
+  <a href="https://github.com/domchen/uglifyts/blob/master/LICENSE"><img src="https://img.shields.io/npm/l/uglifyts.svg" alt="License"></a>
+  <a href="https://github.com/Microsoft/Typescript"><img src="https://img.shields.io/badge/code-TypeScript-blue.svg" alt="TypeScript"></a>
+</p>
 
 # Introduction
 
