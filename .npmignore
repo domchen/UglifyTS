@@ -1,0 +1,6 @@
+doc
+#src
+.settings/
+.idea/
+*.ts
+/test

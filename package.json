@@ -1,0 +1,30 @@
+{
+  "name": "uglifyts",
+  "version": "0.0.1",
+  "author": "Dom Chen",
+  "homepage": "http://www.idom.me/",
+  "description": "A source code obfuscation tool for TypeScript. It accepts TypeScript source files, and generates the functionally equivalent source files which are much harder to understand or reverse-engineer. This tool is usually used for source code protection.",
+  "license": "MIT",
+  "keywords": [
+    "typescript",
+    "uglifyts",
+    "obfuscation"
+  ],
+  "bugs": {
+    "url": "https://github.com/domchen/UglifyTS/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/domchen/UglifyTS.git"
+  },
+  "main": "./lib/uglifyts.js",
+  "bin": {
+    "uglifyts": "./bin/uglifyts"
+  },
+  "engines": {
+    "node": ">=4.2.0"
+  },
+  "dependencies": {
+    "typescript": "2.4.*"
+  }
+}
