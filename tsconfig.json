@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "ES5",
+    "noImplicitAny": false,
+    "removeComments": true,
+    "preserveConstEnums": true,
+    "sourceMap": false,
+    "skipDefaultLibCheck": false,
+    "stripInternal": true
+  },
+  "include": [
+    "src/**/*"
+  ]
+}

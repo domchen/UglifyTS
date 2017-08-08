@@ -29,5 +29,5 @@ npm install uglifyts
 ## Usage
 
 ```
-uglifyts [input files] [options]
+uglifyts [outDir] [options]
 ```
